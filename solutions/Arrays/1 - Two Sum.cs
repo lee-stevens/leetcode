@@ -1,8 +1,8 @@
 /**
 * Problem: #1
-* Title: two Sum
+* Title: Two Sum
 * Description: Return an array of two indexes of `nums`, that when added together, produce `target`
-* Tags: <<Array>>
+* Tags: ||Array||
 */
 
 

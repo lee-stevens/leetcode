@@ -2,7 +2,7 @@
 * Problem: #1480
 * Title: Running Sum of 1d Array
 * Description: Given an array of ints, produce a new array of a running sum of the 1d ints array
-* Tags: <<Arrays>>,
+* Tags: ||Arrays||,
 */
 
 // First pass O(n) - 0ms
